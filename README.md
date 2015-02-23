@@ -1,5 +1,5 @@
 # getmajordomus/majord-java
-Simple Ubuntu docker images with Java 8 (Oracle)
+Simple Ubuntu docker images with Java 7 (Oracle)
 
 ## Usage
 
