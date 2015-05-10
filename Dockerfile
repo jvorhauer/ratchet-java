@@ -1,5 +1,7 @@
-FROM getmajordomus/majord-busybox
+FROM progrium/busybox
 MAINTAINER Michael Kuehl <hello@ratchet.cc>
+
+RUN opkg-install curl
 
 # Java Version
 ENV JAVA_VERSION_MAJOR 8
