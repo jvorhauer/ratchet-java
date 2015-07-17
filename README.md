@@ -1,6 +1,6 @@
 # getmajordomus/majord-java
 
-Simple docker container with Oracle Java 8, based on the progrium/busybox image. Original dockerfile by [Jean Blanchard](https://github.com/jeanblanchard/docker-busybox-java).
+Simple docker container with Oracle Java 8, based on the Alpine linux image. Original dockerfile by [Vladimir Krivosheev](https://github.com/develar/docker-java/blob/master/Dockerfile).
 
 ## Build
 
