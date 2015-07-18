@@ -1,6 +1,9 @@
 # getmajordomus/majord-java
 
-Simple docker container with Oracle Java 8, based on the Alpine linux image. Original dockerfile by [Vladimir Krivosheev](https://github.com/develar/docker-java/blob/master/Dockerfile).
+This image is based on Alpine Linux image, which is only a 5MB image, and contains
+[OracleJDK 8](http://www.oracle.com/technetwork/java/javase/overview/index.html). JDK bundle contains lots of unnecessary for Docker image stuff, so it was cleaned up. 
+
+Original dockerfile by [Vlad Frolov](https://github.com/frol/docker-alpine-oraclejdk8).
 
 ## Build
 
