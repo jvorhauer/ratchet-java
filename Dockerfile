@@ -2,8 +2,8 @@ FROM alpine:3.2
 MAINTAINER Michael Kuehl <hello@ratchet.cc>
 
 ENV JAVA_VERSION=8 \
-    JAVA_UPDATE=45 \
-    JAVA_BUILD=14 \
+    JAVA_UPDATE=66 \
+    JAVA_BUILD=17 \
     JAVA_HOME=/usr/lib/jvm/default-jvm
 
 # Here we use several hacks collected from https://github.com/gliderlabs/docker-alpine/issues/11:
