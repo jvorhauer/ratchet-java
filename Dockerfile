@@ -1,4 +1,4 @@
-FROM alpine:3.2
+FROM alpine:3.3
 MAINTAINER Michael Kuehl <hello@ratchet.cc>
 
 ENV JAVA_VERSION=8 \
